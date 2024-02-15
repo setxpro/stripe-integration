@@ -1,0 +1,6 @@
+
+server:
+  port: 9095
+api:
+  stripe:
+    key: pk_test_**
